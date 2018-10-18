@@ -7,6 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tupy.Logger.Providers.LiteD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample", "Sample\Sample.csproj", "{81F604A9-6948-4692-A964-C4101197176E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{97D752DD-F700-4857-A951-26F44FB1ECB8}"
+	ProjectSection(SolutionItems) = preProject
+		Tupy.Logger.Providers.LiteDB\Tupy.Logger.Providers.LiteDB.nuspec = Tupy.Logger.Providers.LiteDB\Tupy.Logger.Providers.LiteDB.nuspec
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

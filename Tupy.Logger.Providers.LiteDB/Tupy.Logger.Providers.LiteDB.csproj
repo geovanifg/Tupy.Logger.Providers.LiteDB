@@ -46,7 +46,7 @@
       <HintPath>..\packages\Tupy.1.0.1\lib\net45\Tupy.dll</HintPath>
     </Reference>
     <Reference Include="Tupy.Extensions, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Tupy.Extensions.1.0.0\lib\net45\Tupy.Extensions.dll</HintPath>
+      <HintPath>..\packages\Tupy.Extensions.1.0.1\lib\net45\Tupy.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="Tupy.Jobs, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\Tupy.Jobs.1.0.1\lib\net45\Tupy.Jobs.dll</HintPath>

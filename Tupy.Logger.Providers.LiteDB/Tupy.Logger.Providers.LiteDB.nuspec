@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Tupy.Logger.Providers.LiteDB</id>
+    <version>1.0.0</version>
+    <title>Tupy</title>
+    <authors>geovanifg</authors>
+    <owners>geovanifg</owners>    
+    <projectUrl>https://github.com/geovanifg/Tupy.Logger.Providers.LiteDB</projectUrl>    
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Log tool using LiteDB</description>
+    <releaseNotes>Initial version.</releaseNotes>
+    <copyright>Copyright 2018</copyright>
+    <tags>Log LiteDB</tags>
+  </metadata>
+</package>

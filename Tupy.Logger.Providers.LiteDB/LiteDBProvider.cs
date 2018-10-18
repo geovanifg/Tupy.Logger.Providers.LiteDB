@@ -83,7 +83,7 @@ namespace Tupy.Logger.Providers.LiteDB
                  {
                      var col = db.GetCollection<EventEntry>();
 
-                     col.Delete(r => r.TimeGenerated <= date);
+                     col.Delete(r => r.Source == sourceName && r.TimeGenerated <= date);
                      col.EnsureIndex(r => r.TimeGenerated);
                  }
              });
