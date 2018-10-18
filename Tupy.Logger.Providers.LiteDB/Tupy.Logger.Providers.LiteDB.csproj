@@ -45,8 +45,14 @@
     <Reference Include="Tupy, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\Tupy.1.0.1\lib\net45\Tupy.dll</HintPath>
     </Reference>
-    <Reference Include="Tupy.Logger">
-      <HintPath>..\..\Tupy.Logger\Tupy.Logger\bin\Debug\Tupy.Logger.dll</HintPath>
+    <Reference Include="Tupy.Extensions, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Tupy.Extensions.1.0.0\lib\net45\Tupy.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="Tupy.Jobs, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Tupy.Jobs.1.0.1\lib\net45\Tupy.Jobs.dll</HintPath>
+    </Reference>
+    <Reference Include="Tupy.Logger, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Tupy.Logger.1.0.0\lib\net45\Tupy.Logger.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
